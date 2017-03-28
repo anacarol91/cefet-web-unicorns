@@ -1,0 +1,106 @@
+body {
+	padding: 0;
+	margin: 0;
+	color: #000;
+}
+
+h2 {
+	font-size: 24px;
+    color: #000;
+    font-family: "Times New Roman", serif;
+    font-weight: normal;    
+}
+
+p {
+	font-size: 14px;
+}
+
+#cabecalho {
+	background: #6175f0;
+    color: #fff !important;
+    padding: 20px 0 13px 34px;
+}
+
+#cabecalho h1 {
+	font-size: 36px;
+	font-family: 'Kaushan Script', cursive;
+	font-weight: normal;
+	margin: 0;
+}
+
+#cabecalho h2 {
+	color: #fff;
+	margin: 0;
+}
+
+#verdade img {
+	width: 310px;
+    margin-right: 13px;
+    float: left;
+}
+
+#verdade h2 {
+	margin-top: 0;
+}
+
+#verdade p {	
+    font-family: "Arial";
+}
+
+#verdade .referencia {
+	font-style: italic;
+}
+
+#hoje {
+	width: 405px;
+    color: #000;
+    background: #f8cef7;
+    margin-right: 25px;
+    padding: 20px 35px 30px;
+    border: 1px solid #ff56fb;
+    float: right;
+    text-align: center;
+    font-weight: normal;
+    box-sizing: border-box;
+}
+
+#hoje h2 {
+	margin-top: 0;
+}
+
+#hoje h3 {
+	font-family: "Times New Roman", serif;
+	font-size: 18px;
+	font-weight: normal;
+}
+
+#hoje img {
+	width: 112px;
+}
+
+#musica {
+	
+	display: block;
+}
+
+#musica h2{
+	padding-left: 12px;
+	margin-bottom: 0;
+}
+
+#musica p{
+	white-space: pre-line;
+	padding-left: 12px;
+}
+
+#musica p:nth-of-type(even){
+	padding-left: 46px;
+}	
+
+#musica .destacado {
+	color: #004a79;
+    background: #c4caf3;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
